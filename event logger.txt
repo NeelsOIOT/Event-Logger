@@ -1,0 +1,23 @@
+Idea - Event logger
+Log a configured event
+V1
+	record date & time for configured events, linked to sensor
+		open/closed
+	bluetooth accessable?
+V2
+	connect to HassIO
+		record date & time for configured events, linked to sensor
+		alarm system - interface to alarm controller
+Connectivity
+	WIFI - Yes
+	Bluetooth - ?
+Hardware
+	ESP?
+		https://www.robotics.org.za/H295 or like https://www.robotics.org.za/ESP32-CP2102-USBC
+	sencing 
+		open/close - https://www.robotics.org.za/PS-3150-NC-2M or https://www.robotics.org.za/PS-3150-NO-2M
+		radar - https://www.robotics.org.za/SEN0610
+		PIR - https://www.robotics.org.za/HC-SR505 or https://www.robotics.org.za/PIR-12V-RELAY
+		camera - https://www.robotics.org.za/H295
+		interface to alarm controller - ?
+	
