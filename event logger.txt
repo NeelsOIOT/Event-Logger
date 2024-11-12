@@ -3,11 +3,14 @@ Log a configured event
 V1
 	record date & time for configured events, linked to sensor
 		open/closed
-	bluetooth accessable?
+		keep data in local .tbl
 V2
 	connect to HassIO
 		record date & time for configured events, linked to sensor
 		alarm system - interface to alarm controller
+		battery monitor
+		battery temp monitor
+		battery current monitor
 Connectivity
 	WIFI - Yes
 	Bluetooth - ?
